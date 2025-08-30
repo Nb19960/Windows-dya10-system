@@ -1,0 +1,4 @@
+﻿  Windows dya.cpp
+F:\windows dya\Windows dya.cpp(247,1): warning C4715: “checkbluescreen”: 不是所有的控件路径都返回值
+F:\windows dya\Windows dya.cpp(874,1): warning C4715: “startlogo_at”: 不是所有的控件路径都返回值
+  Windows dya.vcxproj -> F:\windows dya\x64\Debug\Windows dya.exe
